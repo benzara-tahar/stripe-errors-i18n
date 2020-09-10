@@ -1,0 +1,1 @@
+# stripe-errors-i18n
